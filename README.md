@@ -1,50 +1,78 @@
+# Hello there! <img alt="A pixel art coffee cup" width="32px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNzdmxtcGpoemZwaWJseDE2dzNqcXptbHZzMGJoejdnbTRsOHJ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V27tZ4NAGo9XdfpZ1F/giphy.gif"> 
+
+## *Introduction*
+
+My name's Akasya, but I tend to go by Cassie. I have no personal preference, so whichever feels right for you!
+
+I am a second-year college student completing the T Level in Digital Production, Design and Development, and my main career objective is to become a full-stack web developer.
+
+--------------
+
+## *Tech stack*
+
+### **Legend**
+
+&nbsp;&nbsp;●●● › Advanced
+
+&nbsp;&nbsp;●●◌ › Intermediate
+
+&nbsp;&nbsp;●◌◌ › Beginner
+
+### **Front End**
+
+&nbsp;&nbsp;●●● › HTML/CSS
+
+&nbsp;&nbsp;●●◌ › JavaScript
+
+&nbsp;&nbsp;●◌◌ › React
+
+### **Back End**
+
+&nbsp;&nbsp;●●● › Python
+
+&nbsp;&nbsp;●●◌ › PHP
+
+&nbsp;&nbsp;●◌◌ › Node.js
+
+------------
+
+## *Current projects*
 
 
-<!--
-**cc443659/cc443659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Careers Pathway**
 
-Here are some ideas to get you started:
+*Assigned by the Royal Cornwall Hospital Trust via Tech Cornwall*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<section>
-  <h2><em>Introduction</em></h2>
-  <p>I am a second-year college student completing the T Level in Digital Production, Design and Development, and my main career objective is to become a full-stack web developer.</p> 
-  <p>I am actively seeking to either relocate back to the North and pursue a...</p>
-  <ul>
-    <li>Level 4 Apprenticeship in Software Development [or Data Analytics]</li>
-    <li>Level 6 Degree Apprenticeship as a Digital and Technology Solutions Professional, with a specialism in Software Development [or Data Analytics]
-  </li>
-  </ul>  
-</section>
+#### Project Details
 
+- This solution is being created to provide staff working at the NHS a clearer insight into what they can progress onto from their current position and job band.
 
-<section>
-  <h2><em>About me</em></h2>
-  <p>Being passionate about full stack web development, I believe that working as an apprentice web developer will help me to further my career prospects within the industry. I am particularly drawn to the balance between front-end and back-end development; front-end allows me to be creative and explore new ways to enhance user experience, whereas back-end challenges me to engage with problem solving and logic. I find that the combination of the two presents a demanding, yet rewarding challenge that motivates me to continually develop both my technical and creative abilities.</p>
-  <p>Outside of education, I have consistently sought opportunities to expand my knowledge of the industry. Since 2022, I have used my spare time to learn a range of programming languages, tools and technologies relevant to web development. These include HTML, CSS, JavaScript and React/Next.js, as well as utilising Node.js, PHP and SQL. I have experience with version control in Git, cloud services through AWS, and experimenting with Linux Mint Cinnamon through a CLI. I have found that learning independently has enabled me to approach my academic commitments with confidence, and maintain motivation for continuous improvement.</p>
-</section>
+- I am working with a partner on this project, with me focusing on the back end while they are focusing on the front end.
 
-<section>
-  <h2><em>Tech stack</em></h2>
-  <p>I have experience in the following...</p>
-  <h3>Front End</h3>
-  <div style="margin-left: 10px;">
-    <p>●●● › HTML/CSS</p>
-    <p>●●◌ › JavaScript</p>
-    <p>●◌◌ › React</p>
-  </div>
-  <h3>Back End</h3>
-  <div style="margin-left: 10px;">
-    <p>●●● › Python</p>
-    <p>●●◌ › PHP</p>
-    <p>●◌◌ › Node.js</p>
-  </div>
-</section>
+- The technologies we are using for this are **HTML/CSS**, **JavaScript**, and **PHP/MySQL**.
+
+### **Carbon Footprint Gauge**
+
+*Assigned by Calc-I via Tech Cornwall*
+
+#### Project Details
+
+- This solution is being created to provide a local business insights into the carbon emissions released by their usage of AI services.
+
+- Like the NHS Careers Pathway, I am working with a partner on this project where I will focus on the backend side of the project while they focus on the front end.
+
+- The technologies we are using for this are **React**, **ReCharts**, **Next.js**, **TypeScript**, and **AWS Amplify**.
+
+### **Ordering Form Digitisation**
+
+*Assigned by the Victoria Inn via Truro & Penwith College*
+
+#### Project Details
+
+- This solution is being created to provide customers of the Victoria Inn an easier way to fill out their Christmas meal orders, and streamlining the data collection for staff.
+
+- This is a classwide project, so it consists of 11 people including myself. Roles are to be determined.
+
+- The technologies we are using are to be determined.  
+
+------------------
