@@ -36,15 +36,15 @@ Here are some ideas to get you started:
   <h2><em>Tech stack</em></h2>
   <p>I have experience in the following...</p>
   <h3>Front End</h3>
-  <ul style="list-style-type: none;">
-    <li>●●● › HTML/CSS</li>
-    <li>●●◌ › JavaScript</li>
-    <li>●◌◌ › React</li>
-  </ul>
+  <div style="margin-left: 10px;">
+    <p>●●● › HTML/CSS</p>
+    <p>●●◌ › JavaScript</p>
+    <p>●◌◌ › React</p>
+  </div>
   <h3>Back End</h3>
-  <ul style="list-style-type: none;">
-    <li>●●● › Python</li>
-    <li>●●◌ › PHP</li>
-    <li>●◌◌ › Node.js</li>
-  </ul>
+  <div style="margin-left: 10px;">
+    <p>●●● › Python</p>
+    <p>●●◌ › PHP</p>
+    <p>●◌◌ › Node.js</p>
+  </div>
 </section>
