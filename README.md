@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <p>I am a second-year college student completing the T Level in Digital Production, Design and Development, and my main career objective is to become a full-stack web developer.</p> 
   <p>I am actively seeking to either relocate back to the North and pursue a...</p>
   <ul>
-    <li>Level 4 Apprenticeship in Software Development \[or Data Analytics\]</li>
-    <li>Level 6 Degree Apprenticeship as a Digital and Technology Solutions Professional, with a specialism in Software Development \[or Data Analytics\]
+    <li>Level 4 Apprenticeship in Software Development [or Data Analytics]</li>
+    <li>Level 6 Degree Apprenticeship as a Digital and Technology Solutions Professional, with a specialism in Software Development [or Data Analytics]
   </li>
   </ul>  
 </section>
@@ -36,13 +36,13 @@ Here are some ideas to get you started:
   <h2><em>Tech stack</em></h2>
   <p>I have experience in the following...</p>
   <h3>Front End</h3>
-  <ul style="list-style: none;">
+  <ul style="list-style-type: none;">
     <li>●●● › HTML/CSS</li>
     <li>●●◌ › JavaScript</li>
     <li>●◌◌ › React</li>
   </ul>
   <h3>Back End</h3>
-  <ul style="list-style: none;">
+  <ul style="list-style-type: none;">
     <li>●●● › Python</li>
     <li>●●◌ › PHP</li>
     <li>●◌◌ › Node.js</li>
