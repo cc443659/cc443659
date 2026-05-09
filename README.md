@@ -30,10 +30,10 @@ Outside of education, I have consistently sought opportunities to expand my know
 ## *Tech stack*
 I have experience in the following:
 ### Front End
-●●● › HTML/CSS \n
-●●◌ › JavaScript \n
-●◌◌ › React \n
+●●● › HTML/CSS <br />
+●●◌ › JavaScript <br />
+●◌◌ › React <br />
 ### Back End
-●●● › Python \n
-●●◌ › PHP \n
-●◌◌ › Node.js \n
+●●● › Python <br />
+●●◌ › PHP <br />
+●◌◌ › Node.js <br />
